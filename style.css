@@ -28,7 +28,7 @@ header {
 #navigator {
     box-sizing: border-box;
     width: 80%;
-    margin: 4% 10% 1% 10%;
+    margin: 4% 10% 0% 10%;
     background-color: white;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
@@ -59,3 +59,14 @@ header {
 }
 
 /*--Main--*/
+
+main {
+    
+    width: 80%;
+    margin: 0% 10% 1% 10%;
+    background-color: white;
+}
+
+/*--Section--*/
+
+
