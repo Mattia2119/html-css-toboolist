@@ -26,8 +26,33 @@ header {
 /*--Nav--*/
 
 #navigator {
+    box-sizing: border-box;
     width: 80%;
     margin: 4% 10% 1% 10%;
     background-color: white;
+}
+
+#botton-add-task {
+    margin: 30px 1px 15px 60px;
+    color: white;
+    background-color: rgb(0, 153, 255);
+    border:rgb(0, 153, 255) 2px solid;
+    border-radius: 4px;
+    height: 20px; 
+    width: 10%;
+    text-align: center;
+    padding: 10px 5px;
+}
+
+#botton-add-section {
+    margin: 30px 15px 10px 1px;
+    color:gray;
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 4px;
+    height: 20px; 
+    width: 10%;
+    text-align: center;
+    padding: 10px 5px;
 }
 
