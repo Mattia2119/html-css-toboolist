@@ -3,7 +3,7 @@
 body {
     background-color: lightgray;
     margin: auto;
-    margin-top: 2px;
+    margin-top: 3px;
 }
 
 /*--Header--*/
@@ -15,7 +15,7 @@ body {
 header {
     background-color: white;
     padding-left: 2%;
-}
+   }
 
 #logotext {
     display: inline-block;
@@ -30,6 +30,8 @@ header {
     width: 80%;
     margin: 4% 10% 1% 10%;
     background-color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
 }
 
 #botton-add-task {
