@@ -22,3 +22,12 @@ header {
     height: 10%;
     vertical-align: middle;
 }
+
+/*--Nav--*/
+
+#navigator {
+    width: 80%;
+    margin: 4% 10% 1% 10%;
+    background-color: white;
+}
+
